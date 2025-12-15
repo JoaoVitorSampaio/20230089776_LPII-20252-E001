@@ -1,8 +1,11 @@
 # Relatório de Implementação: Contador de Primos Concorrente
 
 **Aluno:** João Vitor Sampaio Costa
+
 **Matrícula:** 20230089776
+
 **Disciplina:** Linguagem de Programação II (Programação Concorrente)
+
 **Data:** 15/12/2025
 
 ---
