@@ -147,20 +147,14 @@ make run-shm
 
 O speedup foi calculado como:
 
-\[
-Speedup = \frac{T*{seq}}{T*{par}}
-\]
+$$Speedup = \frac{T_{seq}}{T_{par}}$$
 
-- **Pipe (P=4):**  
-  \[
-  \frac{1.08}{0.67} \approx 1.61\times
-  \]
+- **Pipe (P=4):**
+  $$\frac{1.08}{0.67} \approx 1.61\times$$
 
-- **Shared Memory (P=4):**  
-  \[
-  \frac{1.08}{0.58} \approx 1.86\times
-  \]
-
+- **Shared Memory (P=4):**
+  $$\frac{1.08}{0.58} \approx 1.86\times$$
+  
 ---
 
 ## 9. Análise e Explicação (Parte E)
